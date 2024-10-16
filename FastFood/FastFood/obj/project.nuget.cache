@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zRM38cytp5KLn5FXfsW0qAgUGsdiT7TNqflArmMyfAC5a5JQ9XrWTO+nKPMttkqTMShV6/IJ5fTu5kB9YZnLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood\\FastFood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
