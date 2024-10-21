@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Models\\FastFood.Models.csproj": {}
+    "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Models\\FastFood.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Models\\FastFood.Models.csproj": {
+    "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Models\\FastFood.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
         "projectName": "FastFood.Models",
-        "projectPath": "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
+        "projectPath": "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
         "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Models\\obj\\",
+        "outputPath": "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",

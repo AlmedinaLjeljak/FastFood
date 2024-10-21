@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Services\\FastFood.Services.csproj": {}
+    "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Services\\FastFood.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Services\\FastFood.Services.csproj": {
+    "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Services\\FastFood.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Services\\FastFood.Services.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Services\\FastFood.Services.csproj",
         "projectName": "FastFood.Services",
-        "projectPath": "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Services\\FastFood.Services.csproj",
+        "projectPath": "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Services\\FastFood.Services.csproj",
         "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOME\\Desktop\\SeminarskiRadRazvojSoftvera2\\SeminarskiRadRS2\\FastFood\\FastFood.Services\\obj\\",
+        "outputPath": "C:\\Users\\HOME\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
